@@ -5,7 +5,8 @@ This project presents a deep learning-based brain tumor detection system that an
 
 The model was developed and trained in Google Colab using TensorFlow and Keras, leveraging Convolutional Neural Networks (CNNs) for high-accuracy medical image classification.
 
-🔗 I’ve also developed a mobile application using this trained model!
+🔗 I’ve also developed a mobile application using this trained model! 
+
 👉 Check it out here:  [Brain_Tumor_App_Repository](https://github.com/Devansh1804/Brain_Tumor_Detection_App/tree/master)
 ---
 ## 🚀 Key Features
